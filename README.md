@@ -33,6 +33,11 @@ An interactive browser-based birthday cake experience where users can add candle
 4. Move your mouse left ↔️ right over the candles to simulate blowing.
 5. After 3 swipes, the candles will blow out with a smooth animation.
 
+## Demo
+
+<video src="image/README/1752832030649.mp4" controls></video>
+
+
 ## Compatibility
 
 This project is compatible with all major modern browsers. It does not require any external libraries or frameworks other than Normalize.css and Google Fonts.
