@@ -55,14 +55,8 @@ You can easily change:
 
 ## Contribution
 
-We welcome contributions to enhance the project!
-
-1. Fork the repository
-2. Create a new branch:
-3. Commit your changes
-4. Push to your fork
-5. Open a Pull Request (PR)
+For guidelines on how to contribute to this project, please refer to the [Contribution Guide](./CONTRIBUTION.md).
 
 ## License
 
-This project is released under the [MIT License](./LICENSE).
+This project is released under the [MIT License](./LICENSE.md).
