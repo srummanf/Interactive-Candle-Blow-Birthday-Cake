@@ -2,6 +2,8 @@
 
 An interactive browser-based birthday cake experience where users can add candles, and blow them out with a fun left-right mouse gesture. This lightweight project is built using only HTML, CSS, and JavaScript, and includes colorful animated festoons to simulate a celebratory atmosphere.
 
+<img width="1275" height="813" alt="image" src="https://github.com/user-attachments/assets/cb3da6e6-593c-4877-9666-77ecdcd14123" />
+
 ![1752830767851](image/README/1752830767851.png)
 
 ## Features
